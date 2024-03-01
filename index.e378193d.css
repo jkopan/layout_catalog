@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  flex-direction: column;
+  align-items: center;
+  min-width: 1024px;
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.e378193d.css.map */
